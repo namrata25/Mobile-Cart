@@ -1,0 +1,38 @@
+{
+  "name": "shopkart",
+  "version": "0.0.0",
+  "description": "Shopping kart mainly for mobile phones",
+  "main": "server.js",
+  "dependencies": {
+    "assert": "^1.3.0",
+    "body-parser": "^1.4.3",
+    "chai": "^3.5.0",
+    "express": "^4.4.5",
+    "mongoose": "^4.4.4",
+    "supertest": "^1.2.0",
+    "z-schema": "^3.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reactjs/react-tutorial.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "comment",
+    "example"
+  ],
+  "author": "petehunt",
+  "bugs": {
+    "url": "https://github.com/reactjs/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/reactjs/react-tutorial",
+  "engines": {
+    "node": "0.12.x"
+  }
+}

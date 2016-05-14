@@ -1,0 +1,64 @@
+body {
+  background: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.7;
+  margin: 0;
+  padding: 30px;
+}
+
+.card {
+  box-shadow: 0 2px 4px #efefef;
+  margin: 15px;
+  width: 100% !important;
+}
+
+.card:hover {
+  box-shadow: 0 2px 4px #aaa;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.padding {
+  padding: 10px;
+}
+
+.small-padding {
+  padding: 2px;
+}
+
+.medium-padding {
+  padding: 5px;
+}
+
+.medium-font {
+  font-size: 1.5em;
+}
+
+.small-font {
+  font-size: 1.0em;
+}
+
+.large-font {
+  font-size: 2.0em;
+}
+
+.alert {
+  background: #F08A24;
+  color: #fff;
+  padding: 2px;
+}
+
+.round {
+  border-radius: 3px;
+}
+
+.fade {
+  background: #f6f6f6;
+}
+
+.white {
+  color: #fff;
+}
